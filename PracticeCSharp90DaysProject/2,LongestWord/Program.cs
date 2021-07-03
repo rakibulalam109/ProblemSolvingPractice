@@ -6,6 +6,8 @@ namespace _2_LongestWord
     {
         static void Main(string[] args)
         {
+            //Write a C# program to find the longest word in a string.
+
             var input = Console.ReadLine().Split(' ');
 
             
