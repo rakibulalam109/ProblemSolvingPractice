@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1", "1\1.csproj", "{63C0431B-2A7E-433F-9A9B-D9800CE0A685}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1", "1\1.csproj", "{63C0431B-2A7E-433F-9A9B-D9800CE0A685}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2,LongestWord", "2,LongestWord\2,LongestWord.csproj", "{ACAEDD44-DEDE-4700-940C-66C93D0CE6ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{63C0431B-2A7E-433F-9A9B-D9800CE0A685}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63C0431B-2A7E-433F-9A9B-D9800CE0A685}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63C0431B-2A7E-433F-9A9B-D9800CE0A685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACAEDD44-DEDE-4700-940C-66C93D0CE6ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACAEDD44-DEDE-4700-940C-66C93D0CE6ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACAEDD44-DEDE-4700-940C-66C93D0CE6ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACAEDD44-DEDE-4700-940C-66C93D0CE6ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
