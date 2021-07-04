@@ -8,7 +8,7 @@ namespace _1
         {
             double input = Convert.ToDouble(Console.ReadLine());
             double b = Math.Floor(Math.Log10(input) + 1);
-
+            
             int c = Convert.ToInt32(b);
 
             c = c - 1;

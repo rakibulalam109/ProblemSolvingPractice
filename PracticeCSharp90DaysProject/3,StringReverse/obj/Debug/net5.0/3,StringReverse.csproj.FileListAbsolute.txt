@@ -1,0 +1,16 @@
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3,StringReverse\bin\Debug\net5.0\3,StringReverse.exe
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3,StringReverse\bin\Debug\net5.0\3,StringReverse.deps.json
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3,StringReverse\bin\Debug\net5.0\3,StringReverse.runtimeconfig.json
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3,StringReverse\bin\Debug\net5.0\3,StringReverse.runtimeconfig.dev.json
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3,StringReverse\bin\Debug\net5.0\3,StringReverse.dll
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3,StringReverse\bin\Debug\net5.0\ref\3,StringReverse.dll
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3,StringReverse\bin\Debug\net5.0\3,StringReverse.pdb
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3,StringReverse\obj\Debug\net5.0\3,StringReverse.csprojAssemblyReference.cache
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3,StringReverse\obj\Debug\net5.0\3,StringReverse.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3,StringReverse\obj\Debug\net5.0\3,StringReverse.AssemblyInfoInputs.cache
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3,StringReverse\obj\Debug\net5.0\3,StringReverse.AssemblyInfo.cs
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3,StringReverse\obj\Debug\net5.0\3,StringReverse.csproj.CoreCompileInputs.cache
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3,StringReverse\obj\Debug\net5.0\3,StringReverse.dll
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3,StringReverse\obj\Debug\net5.0\ref\3,StringReverse.dll
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3,StringReverse\obj\Debug\net5.0\3,StringReverse.pdb
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3,StringReverse\obj\Debug\net5.0\3,StringReverse.genruntimeconfig.cache
