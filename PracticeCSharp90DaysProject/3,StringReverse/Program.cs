@@ -6,7 +6,7 @@ namespace _3_StringReverse
     {
         static void Main(string[] args)
         {
-            // Write a C# program to reverse the words of a sentence. Go to the editor
+            // Write a C# program to reverse the words of a sentence.
             //Sample Output:
             //Original String: Display the pattern like pyramid using the alphabet.
             //Reverse String: alphabet.the using pyramid like pattern the Display

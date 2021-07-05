@@ -1,0 +1,16 @@
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3day.2code,HexaToDecimal\bin\Debug\net5.0\3day.2code,HexaToDecimal.exe
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3day.2code,HexaToDecimal\bin\Debug\net5.0\3day.2code,HexaToDecimal.deps.json
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3day.2code,HexaToDecimal\bin\Debug\net5.0\3day.2code,HexaToDecimal.runtimeconfig.json
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3day.2code,HexaToDecimal\bin\Debug\net5.0\3day.2code,HexaToDecimal.runtimeconfig.dev.json
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3day.2code,HexaToDecimal\bin\Debug\net5.0\3day.2code,HexaToDecimal.dll
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3day.2code,HexaToDecimal\bin\Debug\net5.0\ref\3day.2code,HexaToDecimal.dll
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3day.2code,HexaToDecimal\bin\Debug\net5.0\3day.2code,HexaToDecimal.pdb
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3day.2code,HexaToDecimal\obj\Debug\net5.0\3day.2code,HexaToDecimal.csprojAssemblyReference.cache
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3day.2code,HexaToDecimal\obj\Debug\net5.0\3day.2code,HexaToDecimal.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3day.2code,HexaToDecimal\obj\Debug\net5.0\3day.2code,HexaToDecimal.AssemblyInfoInputs.cache
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3day.2code,HexaToDecimal\obj\Debug\net5.0\3day.2code,HexaToDecimal.AssemblyInfo.cs
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3day.2code,HexaToDecimal\obj\Debug\net5.0\3day.2code,HexaToDecimal.csproj.CoreCompileInputs.cache
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3day.2code,HexaToDecimal\obj\Debug\net5.0\3day.2code,HexaToDecimal.dll
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3day.2code,HexaToDecimal\obj\Debug\net5.0\ref\3day.2code,HexaToDecimal.dll
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3day.2code,HexaToDecimal\obj\Debug\net5.0\3day.2code,HexaToDecimal.pdb
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\3day.2code,HexaToDecimal\obj\Debug\net5.0\3day.2code,HexaToDecimal.genruntimeconfig.cache
