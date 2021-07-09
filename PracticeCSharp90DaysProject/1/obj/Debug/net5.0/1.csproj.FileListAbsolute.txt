@@ -1,0 +1,16 @@
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\1\bin\Debug\net5.0\1.exe
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\1\bin\Debug\net5.0\1.deps.json
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\1\bin\Debug\net5.0\1.runtimeconfig.json
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\1\bin\Debug\net5.0\1.runtimeconfig.dev.json
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\1\bin\Debug\net5.0\1.dll
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\1\bin\Debug\net5.0\ref\1.dll
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\1\bin\Debug\net5.0\1.pdb
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\1\obj\Debug\net5.0\1.csprojAssemblyReference.cache
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\1\obj\Debug\net5.0\1.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\1\obj\Debug\net5.0\1.AssemblyInfoInputs.cache
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\1\obj\Debug\net5.0\1.AssemblyInfo.cs
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\1\obj\Debug\net5.0\1.csproj.CoreCompileInputs.cache
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\1\obj\Debug\net5.0\1.dll
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\1\obj\Debug\net5.0\ref\1.dll
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\1\obj\Debug\net5.0\1.pdb
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\1\obj\Debug\net5.0\1.genruntimeconfig.cache

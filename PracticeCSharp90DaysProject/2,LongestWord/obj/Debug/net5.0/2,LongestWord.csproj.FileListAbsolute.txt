@@ -1,0 +1,16 @@
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\2,LongestWord\bin\Debug\net5.0\2,LongestWord.exe
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\2,LongestWord\bin\Debug\net5.0\2,LongestWord.deps.json
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\2,LongestWord\bin\Debug\net5.0\2,LongestWord.runtimeconfig.json
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\2,LongestWord\bin\Debug\net5.0\2,LongestWord.runtimeconfig.dev.json
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\2,LongestWord\bin\Debug\net5.0\2,LongestWord.dll
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\2,LongestWord\bin\Debug\net5.0\ref\2,LongestWord.dll
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\2,LongestWord\bin\Debug\net5.0\2,LongestWord.pdb
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\2,LongestWord\obj\Debug\net5.0\2,LongestWord.csprojAssemblyReference.cache
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\2,LongestWord\obj\Debug\net5.0\2,LongestWord.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\2,LongestWord\obj\Debug\net5.0\2,LongestWord.AssemblyInfoInputs.cache
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\2,LongestWord\obj\Debug\net5.0\2,LongestWord.AssemblyInfo.cs
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\2,LongestWord\obj\Debug\net5.0\2,LongestWord.csproj.CoreCompileInputs.cache
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\2,LongestWord\obj\Debug\net5.0\2,LongestWord.dll
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\2,LongestWord\obj\Debug\net5.0\ref\2,LongestWord.dll
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\2,LongestWord\obj\Debug\net5.0\2,LongestWord.pdb
+G:\ProblemSolvingPractice\PracticeCSharp90DaysProject\2,LongestWord\obj\Debug\net5.0\2,LongestWord.genruntimeconfig.cache
